@@ -38,4 +38,4 @@ Los siguientes archivos son opcionales, pero si quieres ejecutar el benchmark qu
 
 # Ejecución
 
-Una vez descargados los archivos necesarios, simplemente vamos ejecutando el notebook celda por celda para ver los resultados
+Una vez descargados los archivos necesarios, simplemente vamos ejecutando los notebooks celda por celda para ver los resultados
