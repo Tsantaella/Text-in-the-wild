@@ -16,7 +16,7 @@ Toni Santaella Trujillo 1526913
 
 # Archivos necesarios
 
-Para que el notebook funcione correctamente hace falta descargar una serie de archivos:
+Para que el notebook del reconocedor funcione correctamente hace falta descargar una serie de archivos:
 
 <ul>
   <li>  Primera versión de la red neuronal: https://drive.google.com/file/d/1jKMgljNbo04LBhqfmHMCBBklmd8k0dWN/view?usp=sharing </li>  
@@ -24,11 +24,13 @@ Para que el notebook funcione correctamente hace falta descargar una serie de ar
   <li>  Modelo EAST: https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb </li>  
 </ul>
 
-Despues de eso las imágenes para realizar pruebas pueden ser las que quieras.
+Despues de eso las imágenes para realizar pruebas pueden ser las que quieras. <br />
+
+Para poder ejecutar el notebook que crea la red y la entrena te hará falta descargar el Chars74K dataset: http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
 
 # Archivos opcionales
 
-Los siguientes archivos son opcionales, pero si quieres ejecutar el benchmark con los distintos datasets te hará falta descargar los siguientes:
+Los siguientes archivos son opcionales, pero si quieres ejecutar el benchmark que hay en el reconocedor con los distintos datasets te hará falta descargar los siguientes:
 <ul>
   <li> NIST dataset: https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format </li>
   <li> SVHN dataset: http://ufldl.stanford.edu/housenumbers/ </li>
